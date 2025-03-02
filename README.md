@@ -1,17 +1,19 @@
-K coin is a decentralized cryptocurrency inspired by the core design concept of Bitcoin. Its characteristics include:
+K Coin是一个受比特币核心设计概念启发的分散加密货币。它的特征包括：
 
-Constant total quantity: Similar to Bitcoin, K coin sets an issuance limit through algorithms (such as 21 million coins) to ensure scarcity and anti inflation properties.
+恒定总量：类似于比特币，K硬币通过算法（例如2100万个硬币）设定了发行限制，以确保稀缺性和抗通胀特性。
 
-Blockchain technology: Based on distributed ledger to record transactions, data is publicly transparent and tamper proof, and all nodes jointly verify the authenticity of transactions.
+区块链技术：基于分布式分类帐以记录交易，数据是公开透明和篡改的，所有节点都共同验证了交易的真实性。
 
-Decentralized network: Without central institutional control, users conduct direct transactions through peer-to-peer (P2P) networks, and assets are autonomously managed by private keys.
+分散的网络：如果没有中央机构控制，用户可以通过点对点（P2P）网络进行直接交易，并且资产由私钥自主管理。
 
-Mining mechanism: Using Proof of Work (PoW) or other consensus algorithms (such as PoS) to generate new coins and maintain network security, miners receive rewards by contributing computing power.
+采矿机制：使用工作证明（POW）或其他共识算法（例如POS）生成新硬币并维持网络安全性，矿工通过贡献计算能力获得奖励。
 
-Anonymity and Security: Transaction addresses are anonymized to protect user privacy through encryption technology, while also resisting risks such as double spending attacks.
+匿名和安全性：交易地址是匿名的，可以通过加密技术来保护用户隐私，同时也抵制了诸如双重支出攻击之类的风险。
 
-Core purpose:
+核心目的：
 
-As a store of value or investment target, similar to 'digital gold'.
+作为价值或投资目标的存储，类似于“数字黄金”。
 
-Support low-cost and efficient transaction scenarios such as cross-border payments and small transfers.
+支持低成本和高效的交易方案，例如跨境支付和小型转移。，例如跨境支付和小型转移。
+
+https://coin.k956.top/public/login
